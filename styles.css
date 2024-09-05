@@ -153,8 +153,8 @@ nav a:hover {
 
 .quote {
     font-weight: bold;
-    align-self: flex-end;
-    margin-right: 360px;
+    margin-left: 750px;
+    margin-top: 10px;
 }
 
 /* Third Section */
