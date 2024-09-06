@@ -20,6 +20,10 @@ This landing page can serve as a template or inspiration for future projects, sh
 - **Custom Styling**: Fully custom CSS for styling the page, including typography, buttons, and hover effects.
 - **Cross-Browser Compatibility**: Tested in modern browsers for consistent performance.
 
+## Live Demo
+
+You can view the live version of the project: [https://lizz234.github.io/Landing-Page/](#).
+
 ## Technologies Used
 
 - **HTML5**: For structuring the webpage.
